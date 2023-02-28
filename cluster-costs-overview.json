@@ -86,7 +86,7 @@
               }
             ]
           },
-          "unit": "currencyINR"
+          "unit": "currencyUSD"
         },
         "overrides": []
       },
@@ -169,7 +169,7 @@
               }
             ]
           },
-          "unit": "currencyINR"
+          "unit": "currencyUSD"
         },
         "overrides": []
       },
@@ -262,7 +262,7 @@
               }
             ]
           },
-          "unit": "currencyINR"
+          "unit": "currencyUSD"
         },
         "overrides": []
       },
@@ -346,7 +346,7 @@
               }
             ]
           },
-          "unit": "currencyINR"
+          "unit": "currencyUSD"
         },
         "overrides": []
       },
@@ -907,7 +907,7 @@
       },
       "yaxes": [
         {
-          "format": "currencyINR",
+          "format": "currencyUSD",
           "logBase": 1,
           "min": "0",
           "show": true
@@ -1001,7 +1001,7 @@
       },
       "yaxes": [
         {
-          "format": "currencyINR",
+          "format": "currencyUSD",
           "logBase": 1,
           "min": "0",
           "show": true
@@ -1101,7 +1101,7 @@
       },
       "yaxes": [
         {
-          "format": "currencyINR",
+          "format": "currencyUSD",
           "logBase": 1,
           "min": "0",
           "show": true
@@ -1202,7 +1202,7 @@
       },
       "yaxes": [
         {
-          "format": "currencyINR",
+          "format": "currencyUSD",
           "logBase": 1,
           "min": "0",
           "show": true
@@ -1290,7 +1290,7 @@
           "pattern": "Value #A",
           "thresholds": [],
           "type": "number",
-          "unit": "currencyINR"
+          "unit": "currencyUSD"
         },
         {
           "alias": "Mem Cost",
@@ -1306,7 +1306,7 @@
           "pattern": "Value #B",
           "thresholds": [],
           "type": "number",
-          "unit": "currencyINR"
+          "unit": "currencyUSD"
         },
         {
           "alias": "Total",
@@ -1322,7 +1322,7 @@
           "pattern": "Value #C",
           "thresholds": [],
           "type": "number",
-          "unit": "currencyINR"
+          "unit": "currencyUSD"
         },
         {
           "alias": "",
@@ -1456,7 +1456,7 @@
               }
             ]
           },
-          "unit": "currencyINR"
+          "unit": "currencyUSD"
         },
         "overrides": []
       },
